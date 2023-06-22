@@ -42,7 +42,7 @@
                         </executions>
                     </plugin>
                 </plugins>
-                <finalName>education</finalName>
+                <finalName>roncoo-education</finalName>
             </build>
         </profile>
     </profiles>

@@ -50,7 +50,7 @@
     </dependencies>
 
     <build>
-        <finalName>sba</finalName>
+        <finalName>roncoo-sba</finalName>
 
         <plugins>
             <plugin>

@@ -70,7 +70,7 @@
     </dependencies>
 
     <build>
-        <finalName>job</finalName>
+        <finalName>roncoo-job</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

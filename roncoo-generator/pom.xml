@@ -77,7 +77,7 @@
     </dependencies>
 
     <build>
-        <finalName>generator</finalName>
+        <finalName>roncoo-generator</finalName>
 
         <plugins>
             <plugin>
